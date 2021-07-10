@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Laurence here!
 
 <!--
 **laurencecharles/laurencecharles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p>
+Software Engineer with experience in creating effective and efficient software solutions; through the use of a combination of agile development methods and User Centered Design practices. I have experience in all stages of the product development cycle from requirement gathering and analysis through to deployment and maintenance.
+</p>
