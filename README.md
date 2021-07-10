@@ -18,3 +18,16 @@ Here are some ideas to get you started:
 <p>
 Software Engineer with experience in creating effective and efficient software solutions; through the use of a combination of agile development methods and User Centered Design practices. I have experience in all stages of the product development cycle from requirement gathering and analysis through to deployment and maintenance.
 </p>
+
+
+🔭 I’m currently working on bespoke Student Information Management System buillt with PHP sing the Yii2 MVC Framework.
+
+🌱 I’m currently learning the (MongoDb Express React NodeJs (MERN) stack; Data Structures and ALgorithm and improvig my System Architecture skills.
+
+
+### Platforms 👨‍
+<p>
+<a href="https://www.linkedin.com/in/laurence-charles-bb006972/">
+<img src="https://img.shields.io/badge/LinkedIn-laurence%20charles-blue">
+</a>
+</p>
