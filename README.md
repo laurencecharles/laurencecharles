@@ -25,7 +25,7 @@ Software Engineer with experience in creating effective and efficient software s
 🌱 I’m currently learning the (MongoDb Express React NodeJs (MERN) stack; Data Structures and ALgorithm and improvig my System Architecture skills.
 
 
-### Platforms 👨‍
+### Find Me 👨‍
 <p>
 <a href="https://www.linkedin.com/in/laurence-charles-bb006972/">
 <img src="https://img.shields.io/badge/LinkedIn-laurence%20charles-blue">
