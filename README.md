@@ -36,4 +36,13 @@ Software Engineer with experience in creating effective and efficient software s
 ### Languages and Platforms 🦄
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/php.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/visual-studio-code.png"></code>
+
+
+
+### Tools and Environments 🔧
+<p>
+<img src="https://img.shields.io/badge/OS-Windows-organge?logo=Windows">
+<img src="https://img.shields.io/badge/OS-Linux-organge?logo=Linux">
+<img src="https://img.shields.io/badge/Editor-VSCode-green?logo=Visual%20Studio%20Code">
+</a>
+</p>
