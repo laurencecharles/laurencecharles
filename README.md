@@ -31,3 +31,9 @@ Software Engineer with experience in creating effective and efficient software s
 <img src="https://img.shields.io/badge/LinkedIn-laurence%20charles-blue">
 </a>
 </p>
+
+
+### Languages and Platforms 🦄
+<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/php.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/visual-studio-code.png"></code>
